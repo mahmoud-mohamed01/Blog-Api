@@ -5,7 +5,7 @@ import 'dotenv/config'
 
 const app = express();
 const port =process.env.PORT2||3000;
-const API_URL = "http://localhost:4000";
+const API_URL = "https://blog-api-8k9y.onrender.com";   // local was "http://localhost:4000"
 
 
 
